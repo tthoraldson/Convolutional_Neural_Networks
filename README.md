@@ -6,3 +6,9 @@
 - Convolutional Model Application
 
 ## Week 2
+- Residual Networks
+
+## Week 3
+- Autonomous Driving Application - Car Detection
+
+## Week 4
