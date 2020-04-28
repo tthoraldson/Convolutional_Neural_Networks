@@ -12,3 +12,5 @@
 - Autonomous Driving Application - Car Detection
 
 ## Week 4
+- Art Generation with Neural Style Transfer
+- Face Recognition
